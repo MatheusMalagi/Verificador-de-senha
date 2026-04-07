@@ -1,4 +1,4 @@
-#código Puro sem a Biblioteca do streamlits para rodar no front, somente via Console
+#código Puro sem a Biblioteca do streamlits para rodar no front, somente via Console. Todo este código serviu como base para que o arquivo app.py pudesse ser feito com a biblioteca Streamlits.
 numeros = []
 especiais = []
 maiu = []
