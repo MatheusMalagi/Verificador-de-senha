@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Analisador de Senhas", page_icon="🛡️")
 
-st.title("🛡️ Analisador de Segurança", anchor=False)
+st.title("🛡️ Analisador de Senhas", anchor=False)
 st.subheader("Estágio de Desenvolvimento: Portfólio TI", anchor=False)
 senha = st.text_input("Digite sua senha:", type="password"  )
 

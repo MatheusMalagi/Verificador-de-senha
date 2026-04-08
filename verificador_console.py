@@ -3,7 +3,7 @@ numeros = []
 especiais = []
 maiu = []
 minu = []
-print('-----Bem vindo ao verificador de senha!-----')
+print('-----Bem vindo ao analisador de senhas!-----')
 print('--Insira a sua senha para que sela seja avaliada!--')
 senha = input('Digite a sua senha informando todos os caracteres que ela contém: ')
 quantidade = len(senha)
